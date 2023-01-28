@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/image-zoom-app/static/css/main.e4596f8d.css",
+    "main.js": "/image-zoom-app/static/js/main.42920084.js",
+    "static/media/img-bag.jpeg": "/image-zoom-app/static/media/img-bag.da5e6df5b40962fa093d.jpeg",
+    "index.html": "/image-zoom-app/index.html",
+    "main.e4596f8d.css.map": "/image-zoom-app/static/css/main.e4596f8d.css.map",
+    "main.42920084.js.map": "/image-zoom-app/static/js/main.42920084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4596f8d.css",
+    "static/js/main.42920084.js"
+  ]
+}
